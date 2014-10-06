@@ -59,7 +59,7 @@ void draw()
   if(y1<0) y1 = height-6;
 }
 
-// run whenever I left-click. It was originally to run when the letter i was clicked
+// run whenever I left-click.
 void mouseClicked()
 {
    background(0); // Changed to black--blacks out the screen
